@@ -1,0 +1,50 @@
+/**
+ * @name 'Edgehog'
+ * @author DevilBro
+ * @version 1.0.5
+ * @description Allows you to use a background image without greatly altering the basic look of Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.imgur.com/pf1Z2hw.png');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://i.imgur.com/WqrhGsp.jpg');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 105,36,36;
+  --accentcolor: 157,28,28;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: rgb(70,255,0,0.2);
+  --transparencyalpha: 0;
+  --messagetransparency: 0.24;
+  --guildchanneltransparency: 0.18;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0.18;
+  --font: Comic Sans MS;
+  --textbrightest: 255,238,97;
+  --textbrighter: 255,0,0;
+  --textbright: 135,15,15;
+  --textdark: 118,67,157;
+  --textdarker: 94,67,117;
+  --textdarkest: 65,33,83;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */
+
+
