@@ -12,7 +12,7 @@
  * @BDEditor BasicBackground
 */
 
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://github.com/nebbster/edgehog-bd-theme/blob/main/edgehog.theme.css');
 
 :root {
   --background: url('https://i.imgur.com/pf1Z2hw.png');
